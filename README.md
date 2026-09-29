@@ -2,6 +2,10 @@
 
 Website simulasi untuk proposal **Pengembangan Sistem Klasifikasi Risiko Stunting Berbasis Website dengan Pendekatan Edukasi Preventif Menggunakan Machine Learning** (Bab 1–3, versi 16 September 2026).
 
+**Demo publik:** https://stuntaware-efteaa.familytrifeli.chatgpt.site
+
+Demo statis ini diterbitkan dari `demo.html`. Source code tetap berada di repo ini. Perubahan source di GitHub perlu diterbitkan ulang agar muncul di alamat demo; situs ini belum memakai GitHub Pages.
+
 ## Coba langsung
 
 Buka [`demo.html`](demo.html) di browser. Form, hasil, edukasi, dan riwayat lokal bekerja tanpa instalasi atau akun. Ini cocok untuk menunjukkan alur pada bimbingan. Data riwayat tersimpan **hanya di browser/perangkat yang dipakai**, bukan di server; gunakan data contoh, bukan identitas anak sungguhan.
