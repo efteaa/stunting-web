@@ -2,9 +2,9 @@
 
 Website simulasi untuk proposal **Pengembangan Sistem Klasifikasi Risiko Stunting Berbasis Website dengan Pendekatan Edukasi Preventif Menggunakan Machine Learning** (Bab 1–3, versi 16 September 2026).
 
-**Demo publik:** https://stuntaware-efteaa.familytrifeli.chatgpt.site
+**Website:** https://efteaa.github.io/stunting-web/
 
-Demo statis ini diterbitkan dari `demo.html`. Source code tetap berada di repo ini. Perubahan source di GitHub perlu diterbitkan ulang agar muncul di alamat demo; situs ini belum memakai GitHub Pages.
+Halaman publik berada di branch `gh-pages`. Jika GitHub Pages belum aktif, buka **Settings → Pages**, pilih **Deploy from a branch**, lalu pilih `gh-pages` dan `/(root)`. Simpan pengaturan tersebut untuk mengaktifkan alamat website di atas.
 
 ## Coba langsung
 
